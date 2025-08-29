@@ -67,3 +67,12 @@ python inference/timing.py <verilog file path>
 If you use VeriLoC in your research or project, please cite it using the following BibTeX entry:
 
 ```bibtex
+@misc{hemadri2025veriloclineofcodelevelprediction,
+      title={VeriLoC: Line-of-Code Level Prediction of Hardware Design Quality from Verilog Code}, 
+      author={Raghu Vamshi Hemadri and Jitendra Bhandari and Andre Nakkab and Johann Knechtel and Badri P Gopalan and Ramesh Narayanaswamy and Ramesh Karri and Siddharth Garg},
+      year={2025},
+      eprint={2506.07239},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2506.07239}, 
+}
